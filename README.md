@@ -31,24 +31,24 @@ To run this project locally, follow the steps below:
 2. **Navigate to the project folder:**
 
    ```bash
-  cd reactjs-todolist
+   cd reactjs-todolist
 
 3. **Install dependencies:**
 
    ```bash
-  npm install
+   npm install
 
 4. **Run the project:**
 
    ```bash
-  npm run dev
+   npm run dev
 
 ## Build and Deploy
 
 1. **To create a production build, run:**
 
    ```bash
-  npm run build
+   npm run build
 
 
 
