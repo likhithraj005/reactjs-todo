@@ -9,9 +9,8 @@ You can view the live demo of the app here: [React JS Todo List](https://reactjs
 ## Features
 
 - Add new tasks to your todo list
-- Mark tasks as completed
+- Edit the tasks from the list
 - Delete tasks from the list
-- Responsive design
 
 ## Technologies Used
 
