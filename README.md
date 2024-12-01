@@ -4,7 +4,7 @@ A simple and interactive Todo List web application built using React JS and Vite
 
 ## Demo
 
-You can view the live demo of the app here: [React JS Todo List](https://reactjs-thingstodos.netlify.app)
+You can view the live demo of the app here: [React JS Todo List](https://reactjs-thingstodos.netlify.app):https://reactjs-thingstodos.netlify.app
 
 ## Features
 
